@@ -1,0 +1,12 @@
+.caja{
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+#t{
+    font-size: 200%;
+}
+.linea{
+    border:solid 4px black;
+    width:60%;
+}
